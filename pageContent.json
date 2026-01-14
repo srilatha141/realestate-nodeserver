@@ -1,0 +1,1142 @@
+[
+  {
+    "pageTitle": "home",
+    "pageDescription": "Welcome to APM Realty - Your Gateway to Luxury Real Estate",
+    "components": [
+      {
+        "id": "uuid-or-unique-string-1",
+        "type": "hero-flexible",
+        "content": {
+          "title": "Find Your Dream Property",
+          "subtitle": "Luxury Real Estate at Your Fingertips editing sub title",
+          "subtitle1": "Discover premium properties in the most desirable locations",
+          "alignment": "center",
+          "bg_image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1950&amp;q=80",
+          "buttons": [
+            {
+              "label": "Browse Properties",
+              "url": "/register",
+              "variant": "light"
+            },
+            {
+              "label": "Contact Us",
+              "url": "/register",
+              "variant": "light"
+            }
+          ]
+        }
+      },
+      {
+        "type": "feature-grid",
+        "id": "about-apm-realty",
+        "content": {
+          "backgroundColor": "#ffffff",
+          "textColor": "#333333",
+          "title": "About APM Reality",
+          "subtitle": "Your Trusted Real Estate Partner",
+          "description": "With over 15 years of experience in the real estate industry, we are your trusted partner in finding the perfect property. Our team of dedicated professionals is committed to providing exceptional service and expertise.",
+          "features": [
+            {
+              "icon": "chart-line",
+              "title": "Expert Knowledge",
+              "description": "Deep understanding of local markets and property trends to guide your decisions."
+            },
+            {
+              "icon": "users",
+              "title": "Personalized Service",
+              "description": "Tailored approach to meet your specific property needs and preferences."
+            },
+            {
+              "icon": "award",
+              "title": "Proven Results",
+              "description": "Track record of successful transactions and satisfied clients."
+            }
+          ],
+          "cta": {
+            "label": "Learn More About Us",
+            "url": "/",
+            "icon": "arrow-right"
+          },
+          "image": {
+            "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+            "alt": "About APM Reality"
+          }
+        }
+      },
+      {
+        "type": "mission-vision",
+        "id": "mission-vision-001",
+        "content": {
+          "backgroundColor": "#f8f9fa",
+          "textColor": "#333333",
+          "title": "Our Mission & Vision",
+          "subtitle": "Driving innovation and excellence in everything we do",
+          "isEditing": true,
+          "cards": [
+            {
+              "icon": "home",
+              "title": "Our Mission",
+              "lead": "Connecting People with Their Dream Properties",
+              "description": "To provide exceptional real estate services that help our clients find, buy, sell, and invest in properties that meet their needs and exceed their expectations."
+            },
+            {
+              "icon": "star",
+              "title": "Our Vision",
+              "lead": "Leading Real Estate Excellence",
+              "description": "To be the most trusted and respected real estate company, known for our integrity, expertise, and commitment to client success."
+            }
+          ],
+          "coreValues": {
+            "title": "Our Core Values",
+            "description": "Integrity, Excellence, Client Focus, Innovation, and Community Service guide everything we do."
+          }
+        }
+      },
+      {
+        "type": "featured-properties",
+        "id": "featured-properties-001",
+        "content": {
+          "title": "Featured Properties",
+          "subtitle": "Discover exceptional properties available now",
+          "properties": [
+            {
+              "image": "https://photos.zillowstatic.com/fp/1ee2dc26d7ebf083e94e7bbc15c1d5c7-cc_ft_1536.jpg",
+              "price": "$237500",
+              "location": "Denham Springs, LA",
+              "title": "1426 Weeping Willow Dr, Denham Springs, LA 70726 | Zillow",
+              "bedrooms": "3 Bed",
+              "area": "1937 sqft",
+              "url": "/cms/property/PROP0000014/"
+            },
+            {
+              "image": "https://photos.zillowstatic.com/fp/1ee2dc26d7ebf083e94e7bbc15c1d5c7-cc_ft_1536.jpg",
+              "price": "$237500",
+              "location": "Denham Springs, LA",
+              "title": "1426 Weeping Willow Dr, Denham Springs, LA 70726 | Zillow",
+              "bedrooms": "3 Bed",
+              "area": "1937 sqft",
+              "url": "/cms/property/PROP0000014/"
+            },
+            {
+              "image": "https://photos.zillowstatic.com/fp/1ee2dc26d7ebf083e94e7bbc15c1d5c7-cc_ft_1536.jpg",
+              "price": "$237500",
+              "location": "Denham Springs, LA",
+              "title": "1426 Weeping Willow Dr, Denham Springs, LA 70726 | Zillow",
+              "bedrooms": "3 Bed",
+              "area": "1937 sqft",
+              "url": "/cms/property/PROP0000013/"
+            },
+            {
+              "image": "https://themewagon.github.io/property/images/img_1.jpg",
+              "price": "$350,000",
+              "location": "San Francisco, CA",
+              "title": "Modern Family Home",
+              "url": "/cms/property/PROP0000012/"
+            },
+            {
+              "image": "https://themewagon.github.io/property/images/img_1.jpg",
+              "price": "$350,000",
+              "location": "San Francisco, CA",
+              "title": "Modern Family Home",
+              "url": "/cms/property/PROP0000011/"
+            },
+            {
+              "image": "https://themewagon.github.io/property/images/img_1.jpg",
+              "price": "$350,000",
+              "location": "San Francisco, CA",
+              "title": "Modern Family Home",
+              "url": "/cms/property/PROP0000010/"
+            }
+          ],
+          "cta": {
+            "label": "View All Properties",
+            "url": "/cms/properties/",
+            "icon": "home"
+          }
+        }
+      },
+      {
+        "type": "services",
+        "id": "services-001",
+        "content": {
+          "background": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+          "textColor": "white",
+          "title": "Our Services",
+          "subtitle": "Comprehensive real estate solutions tailored to your needs",
+          "services": [
+            {
+              "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80",
+              "alt": "Property Sales",
+              "title": "Property Sales",
+              "description": "Comprehensive property sales services including market analysis, pricing strategy, and professional marketing to get you the best value.",
+              "cta": {
+                "label": "Learn More",
+                "url": "/services/property-sales/"
+              }
+            },
+            {
+              "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80",
+              "alt": "Investment Consulting",
+              "title": "Investment Consulting",
+              "description": "Expert investment advice for real estate portfolios including market analysis, property selection, and ROI optimization strategies.",
+              "cta": {
+                "label": "Discover",
+                "url": "/services/investment-consulting/"
+              }
+            },
+            {
+              "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80",
+              "alt": "Commercial Real Estate",
+              "title": "Commercial Real Estate",
+              "description": "Specialized services for commercial properties including office spaces, retail locations, and industrial facilities.",
+              "cta": {
+                "label": "View Details",
+                "url": "/services/commercial-real-estate/"
+              }
+            },
+            {
+              "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80",
+              "alt": "Relocation Services",
+              "title": "Relocation Services",
+              "description": "Comprehensive relocation assistance including neighborhood research, school information, and local area insights for smooth transitions.",
+              "cta": {
+                "label": "Contact Us",
+                "url": "/services/relocation/"
+              }
+            }
+          ],
+          "whyChooseUs": {
+            "title": "Why Choose Our Services?",
+            "features": [
+              {
+                "icon": "shield-alt",
+                "title": "Trusted & Reliable",
+                "description": "Years of experience in real estate"
+              },
+              {
+                "icon": "handshake",
+                "title": "Personalized Service",
+                "description": "Tailored to your specific needs"
+              },
+              {
+                "icon": "chart-line",
+                "title": "Market Expertise",
+                "description": "Deep local market knowledge"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "customer-feedback",
+        "id": "testimonials-001",
+        "content": {
+          "backgroundColor": "#ffffff",
+          "textColor": "#333333",
+          "title": "What Our Clients Say",
+          "subtitle": "Success Stories from Satisfied Homeowners",
+          "description": "Discover how we helped our clients find their perfect properties and achieve their real estate goals.",
+          "testimonials": [
+            {
+              "rating": 5,
+              "quote": "APM Reality made our first home buying experience incredible. They found us the perfect house within our budget and guided us through every step.",
+              "author": {
+                "name": "Sarah Johnson",
+                "role": "Homeowner",
+                "tagline": "First-time Buyer",
+                "image": "https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80"
+              }
+            },
+            {
+              "rating": 5,
+              "quote": "The investment properties recommended by APM Reality have consistently delivered excellent returns. Their market knowledge is unmatched.",
+              "author": {
+                "name": "Michael Chen",
+                "role": "Property Investor",
+                "tagline": "Real Estate Portfolio",
+                "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80"
+              }
+            },
+            {
+              "rating": 5,
+              "quote": "APM Reality sold our house in just 2 weeks for above asking price. Their marketing strategy and negotiation skills are outstanding.",
+              "author": {
+                "name": "Emily Rodriguez",
+                "role": "Home Seller",
+                "tagline": "Recent Seller",
+                "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80"
+              }
+            },
+            {
+              "rating": 5,
+              "quote": "Finding the right commercial space was crucial for our business. APM Reality understood our needs and found the perfect location.",
+              "author": {
+                "name": "David Thompson",
+                "role": "Commercial Investor",
+                "tagline": "Business Owner",
+                "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80"
+              }
+            },
+            {
+              "rating": 5,
+              "quote": "APM Reality specializes in luxury properties and found us an exceptional estate that exceeded all our expectations.",
+              "author": {
+                "name": "Lisa Wang",
+                "role": "Luxury Home Buyer",
+                "tagline": "High-end Property",
+                "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80"
+              }
+            },
+            {
+              "rating": 5,
+              "quote": "Moving to a new city was stressful, but APM Reality made it seamless. They found us the perfect neighborhood and home.",
+              "author": {
+                "name": "Robert Kim",
+                "role": "Relocation Client",
+                "tagline": "Corporate Relocation",
+                "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "contact-section",
+        "id": "contact-001",
+        "content": {
+          "backgroundColor": "#2c3e50",
+          "textColor": "#ffffff",
+          "title": "Get In Touch",
+          "subtitle": "Ready to Find Your Perfect Property?",
+          "description": "Contact our expert team at APM Reality today to start your property search journey. We're here to help you find the home of your dreams.",
+          "form": {
+            "action": "/contact/submit",
+            "method": "POST",
+            "fields": [
+              {
+                "type": "text",
+                "label": "Full Name",
+                "name": "name",
+                "required": true
+              },
+              {
+                "type": "email",
+                "label": "Email Address",
+                "name": "email",
+                "required": true
+              },
+              {
+                "type": "tel",
+                "label": "Phone Number",
+                "name": "phone",
+                "required": false
+              },
+              {
+                "type": "text",
+                "label": "Subject",
+                "name": "subject",
+                "required": true
+              },
+              {
+                "type": "textarea",
+                "label": "Message",
+                "name": "message",
+                "required": true,
+                "rows": 5
+              }
+            ],
+            "submit": {
+              "label": "Send Message",
+              "icon": "paper-plane"
+            }
+          }
+        }
+      },
+      {
+        "type": "footer-section",
+        "id": "footer-001",
+        "content": {
+          "backgroundColor": "#1a1a1a",
+          "textColor": "#ffffff",
+          "brand": {
+            "logo": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80",
+            "alt": "APM Reality Real Estate",
+            "name": "APM Reality Real Estate",
+            "description": "Your trusted partner in finding the perfect property. Professional real estate services with a personal touch."
+          },
+          "contact": {
+            "address": "123 Real Estate Blvd, Property City, PC 12345",
+            "phone": "+1 (555) 123-4567",
+            "email": "info@apmreality.com"
+          },
+          "quickLinks": [
+            {
+              "label": "About Us",
+              "url": "#about"
+            },
+            {
+              "label": "Services",
+              "url": "#services"
+            },
+            {
+              "label": "Properties",
+              "url": "#properties"
+            },
+            {
+              "label": "Contact",
+              "url": "#contact"
+            }
+          ],
+          "services": [
+            {
+              "label": "Property Sales",
+              "url": "#"
+            },
+            {
+              "label": "Property Management",
+              "url": "#"
+            },
+            {
+              "label": "Investment Consulting",
+              "url": "#"
+            },
+            {
+              "label": "Market Analysis",
+              "url": "#"
+            }
+          ],
+          "newsletter": {
+            "title": "Stay Updated",
+            "description": "Get the latest property listings, market insights, and real estate tips delivered to your inbox.",
+            "placeholder": "Enter your email",
+            "buttonLabel": "Subscribe"
+          },
+          "copyright": "© APM Reality Real Estate. All rights reserved.",
+          "social": [
+            {
+              "icon": "facebook-f",
+              "url": "#"
+            },
+            {
+              "icon": "twitter",
+              "url": "#"
+            },
+            {
+              "icon": "linkedin-in",
+              "url": "#"
+            },
+            {
+              "icon": "instagram",
+              "url": "#"
+            }
+          ]
+        }
+      },
+      {
+        "type": "ui-widgets",
+        "id": "ui-001",
+        "content": {
+          "scrollTop": {
+            "enabled": true,
+            "icon": "angle-up",
+            "position": "bottom-right"
+          },
+          "chatbot": {
+            "enabled": true,
+            "toggleButton": {
+              "icon": "chat-dots",
+              "backgroundColor": "#ffc107",
+              "textColor": "#000000",
+              "size": "60px",
+              "animation": "animate__swing"
+            },
+            "window": {
+              "title": "Live Chat",
+              "gradient": "linear-gradient(135deg, #007bff, #6610f2)",
+              "width": "350px",
+              "height": "500px",
+              "welcomeMessage": "Hi! How may I help you?",
+              "inputPlaceholder": "Type your message..."
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageTitle": "about",
+    "pageDescription": "Learn More About APM Realty - Your Trusted Real Estate Partner",
+    "components": [
+      {
+        "id": "uuid-or-unique-string-1",
+        "type": "hero-flexible",
+        "content": {
+          "title": "Find Your Dream Property",
+          "subtitle": "Luxury Real Estate at Your Fingertips",
+          "alignment": "center",
+          "bg_image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=2000&amp;q=80",
+          "buttons": []
+        }
+      },
+      {
+        "type": "feature-grid",
+        "id": "about-apm-realty",
+        "content": {
+          "backgroundColor": "#ffffff",
+          "textColor": "#333333",
+          "title": "Our Mission",
+          "subtitle": "About Our Real Estate Excellence",
+          "description": "With over 15 years in the real estate industry, we specialize in connecting clients with their perfect properties.",
+          "cta": {
+            "label": "Explore Services",
+            "url": "/services",
+            "icon": "arrow-right"
+          },
+          "image": {
+            "src": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80",
+            "alt": "our mission"
+          }
+        }
+      },
+      {
+        "type": "about",
+        "id": "who-we-are",
+        "content": {
+          "styles": {
+            "padding": "py-5",
+            "backgroundColor": "#1a1a1a",
+            "textColor": "#ffffff"
+          },
+          "layout": {
+            "container": true,
+            "row": "align-items-center",
+            "columns": [
+              {
+                "type": "content",
+                "width": "col-lg-6",
+                "animation": "fade-right",
+                "padding": "pe-lg-5",
+                "heading": {
+                  "title": "Who We Are",
+                  "titleClass": "display-5 fw-bold mb-4",
+                  "subtitle": "A Team You Can Trust With Your Future",
+                  "subtitleClass": "h3 fw-bold mb-4"
+                },
+                "paragraphs": [
+                  "We are a group of passionate developers, architects, and project managers dedicated to helping retirees and expats transition to a better lifestyle with ease.",
+                  "With years of experience building in Ecuador, our bilingual team understands local regulations, permits, and construction standards — and we take care of it all for you.",
+                  "We're committed to honesty, transparency, and providing personalized service every step of the way."
+                ]
+              },
+              {
+                "type": "carousel",
+                "width": "col-lg-6",
+                "animation": "fade-left",
+                "carouselId": "teamCarousel",
+                "height": 400,
+                "images": [
+                  {
+                    "src": "",
+                    "alt": "Luxury Living Room"
+                  },
+                  {
+                    "src": "",
+                    "alt": "Gourmet Kitchen"
+                  },
+                  {
+                    "src": "",
+                    "alt": "Master Bedroom Suite"
+                  },
+                  {
+                    "src": "",
+                    "alt": "Office Building Exterior"
+                  },
+                  {
+                    "src": "",
+                    "alt": "Property Management Team"
+                  },
+                  {
+                    "src": "",
+                    "alt": "Client Success Event"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "premium-services",
+        "id": "services",
+        "content": {
+          "styles": {
+            "padding": "py-5",
+            "backgroundClass": "bg-white"
+          },
+          "header": {
+            "alignment": "text-center",
+            "width": "col-lg-8",
+            "animation": "fade-up",
+            "title": {
+              "text": "Our Premium Services",
+              "class": "display-5 fw-bold mb-4 text-dark",
+              "delay": 0
+            },
+            "subtitle": {
+              "text": "Comprehensive Real Estate Solutions",
+              "class": "h2 fw-bold mb-4 text-dark",
+              "delay": 100
+            },
+            "description": {
+              "text": "From property valuation to investment consulting, we offer a full range of real estate services.",
+              "class": "lead text-muted",
+              "delay": 200
+            }
+          },
+          "items": {
+            "grid": "row g-4",
+            "column": "col-lg-6",
+            "icon": {
+              "name": "check-circle",
+              "class": "text-success fs-4"
+            },
+            "animation": "fade-up",
+            "list": [
+              {
+                "title": "Luxury Properties",
+                "description": "Exclusive access to premium luxury homes and estates in prime locations.",
+                "delay": 100
+              },
+              {
+                "title": "Property Sales",
+                "description": "Comprehensive property sales services including market analysis, pricing strategy, and professional marketing to get you the best value.",
+                "delay": 101
+              },
+              {
+                "title": "Commercial Spaces",
+                "description": "Professional commercial properties for businesses and investments.",
+                "delay": 102
+              },
+              {
+                "title": "Investment Consulting",
+                "description": "Expert investment advice for real estate portfolios including market analysis, property selection, and ROI optimization strategies.",
+                "delay": 103
+              },
+              {
+                "title": "Investment Opportunities",
+                "description": "High-yield investment properties with guaranteed returns.",
+                "delay": 104
+              },
+              {
+                "title": "Commercial Real Estate",
+                "description": "Specialized services for commercial properties including office spaces, retail locations, and industrial facilities.",
+                "delay": 105
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "feature-grid",
+        "id": "about-apm-realty",
+        "content": {
+          "backgroundColor": "#ffffff",
+          "textColor": "#333333",
+          "title": "An Unmatched Lifestyle — at an Unbelievable Value",
+          "description": "Located in one of the most beautiful regions of Ecuador, Toscana offers a perfect blend of natural beauty, safety, and affordability. Whether you're drawn to the pleasant year-round climate, lower cost of living, or the welcoming local culture — Toscana makes it easy to say yes to a better life.",
+          "subDescription": "You get more than a home here. You get community, peace of mind, and the chance to enjoy your golden years in a place where your money goes further — and your lifestyle goes higher.",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80",
+            "alt": "our mission"
+          },
+          "benefits": {
+            "icon": {
+              "name": "check-circle",
+              "class": "text-success me-3 mt-1"
+            },
+            "list": [
+              {
+                "title": "The World's Best Climate:",
+                "text": "The Ecuadorian highlands boast a year-round spring-like climate. No harsh winters, no scorching summers. Just pure, comfortable living."
+              },
+              {
+                "title": "An Affordable Retirement on the US Dollar:",
+                "text": "Your Social Security and retirement savings go significantly further here. Enjoy fine dining, travel, and hobbies without financial stress."
+              },
+              {
+                "title": "A Safe and Welcoming Haven:",
+                "text": "Ecuador is known for its warm, friendly culture and is considered one of the safest countries in Latin America for American retirees."
+              },
+              {
+                "title": "First-World Infrastructure:",
+                "text": "With modern healthcare, high-speed internet, and easy access to an international airport, you sacrifice nothing in terms of convenience."
+              },
+              {
+                "title": "Unbelievable Natural Beauty:",
+                "text": "From your home, you're just hours away from the Amazon rainforest, tropical beaches, and the historic, UNESCO-honored city of Quito."
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "discovery-call",
+        "id": "cta-discovery-call",
+        "content": {
+          "styles": {
+            "padding": "py-5",
+            "position": "position-relative overflow-hidden",
+            "background": {
+              "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?auto=format&fit=crop&w=2000&q=80",
+              "size": "cover",
+              "position": "center",
+              "attachment": "fixed",
+              "overlay": {
+                "color": "rgba(0,0,0,0.7)"
+              }
+            }
+          },
+          "layout": {
+            "left": {
+              "width": "col-lg-8",
+              "card": {
+                "class": "bg-white p-5 rounded-3 shadow-lg",
+                "badge": {
+                  "text": "Your Paradise is Waiting, But It Won't Wait Forever.",
+                  "class": "text-primary fw-bold"
+                },
+                "heading": {
+                  "text": "SCHEDULE NO-OBLIGATION DISCOVERY CALL NOW!",
+                  "class": "display-6 fw-bold mb-4 text-dark"
+                },
+                "description": {
+                  "text": "We have only 8 parcels in this exclusive development. Once they're gone, this specific opportunity—with these views, this location, and this pricing—is gone forever.",
+                  "class": "text-muted mb-4"
+                }
+              }
+            },
+            "right": {
+              "width": "col-lg-4",
+              "card": {
+                "class": "bg-white p-4 rounded-3 shadow-lg mt-4 mt-lg-0",
+                "title": {
+                  "text": "The Process is Simple:",
+                  "class": "fw-bold mb-4 text-dark"
+                },
+                "steps": {
+                  "badge": {
+                    "class": "badge bg-primary rounded-circle me-3 mt-1",
+                    "style": {
+                      "width": "24px",
+                      "height": "24px"
+                    }
+                  },
+                  "list": [
+                    {
+                      "step": "1",
+                      "title": "Schedule a Call:",
+                      "text": "A quick, 15-minute chat to answer your questions."
+                    },
+                    {
+                      "step": "2",
+                      "title": "Get The Details:",
+                      "text": "We'll send you our digital brochure with floor plans, pricing, and visa info."
+                    },
+                    {
+                      "step": "3",
+                      "title": "Plan Your Visit:",
+                      "text": "Let's lock in your \"Fly & Buy\" tour."
+                    }
+                  ]
+                },
+                "cta": {
+                  "text": "Schedule Discovery Call 🔒",
+                  "href": "mailto:info@apmreality.com",
+                  "class": "btn btn-primary btn-lg w-100 rounded-pill"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "get-started",
+        "id": "get-started",
+        "content": {
+          "styles": {
+            "padding": "py-5",
+            "backgroundColor": "#1a1a1a",
+            "textColor": "#ffffff"
+          },
+          "alignment": "text-center",
+          "width": "col-lg-10",
+          "heading": {
+            "text": "Ready to Get Started?",
+            "class": "display-5 fw-bold mb-4 text-white",
+            "animation": "fade-up",
+            "delay": 0
+          },
+          "description": {
+            "text": "Our expert team is here to help you find the property of your dreams.",
+            "class": "lead text-light mb-5",
+            "animation": "fade-up",
+            "delay": 100
+          },
+          "features": {
+            "grid": "row g-4 mb-5",
+            "column": "col-lg-3 col-md-6",
+            "animation": "fade-up",
+            "list": [
+              {
+                "icon": "mobile-alt",
+                "text": "Regular updates via WhatsApp",
+                "delay": 200
+              },
+              {
+                "icon": "camera",
+                "text": "Drone and ground-level photos",
+                "delay": 250
+              },
+              {
+                "icon": "user-shield",
+                "text": "Access to a private client portal",
+                "delay": 300
+              },
+              {
+                "icon": "headset",
+                "text": "A direct line to your personal project manager",
+                "delay": 350
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageTitle": "properties",
+    "pageDescription": "Explore Our Comprehensive Real Estate Services Tailored to Your Needs",
+    "components": [
+      {
+        "id": "uuid-or-unique-string-1",
+        "type": "hero-flexible",
+        "content": {
+          "title": "Property Listings",
+          "subtitle": "Discover your perfect property from our extensive collection",
+          "alignment": "center",
+          "bg_color": "#f39c12",
+          "buttons": []
+        }
+      },
+      {
+        "type": "property-search",
+        "id": "property-search",
+        "content": {
+          "styles": {
+            "sectionClass": "cms-section cms-section-alt",
+            "cardClass": "search-filter-card property-card shadow-sm p-4 mb-5",
+            "animation": "fade-up"
+          },
+          "header": {
+            "title": "Find Your Perfect Property",
+            "class": "mb-4 text-center"
+          },
+          "form": {
+            "method": "get",
+            "action": "",
+            "basicFilters": {
+              "grid": "row g-3 align-items-end",
+              "fields": [
+                {
+                  "type": "text",
+                  "name": "q",
+                  "label": "Search",
+                  "icon": "search",
+                  "placeholder": "City, address, or keyword...",
+                  "column": "col-md-3"
+                },
+                {
+                  "type": "select",
+                  "name": "property_type",
+                  "label": "Type",
+                  "icon": "home",
+                  "column": "col-md-2",
+                  "options": [
+                    {
+                      "label": "Any Type",
+                      "value": ""
+                    },
+                    {
+                      "label": "Apartment",
+                      "value": "apartment"
+                    },
+                    {
+                      "label": "House",
+                      "value": "house"
+                    },
+                    {
+                      "label": "Condominium",
+                      "value": "condo"
+                    },
+                    {
+                      "label": "Townhouse",
+                      "value": "townhouse"
+                    },
+                    {
+                      "label": "Commercial",
+                      "value": "commercial"
+                    },
+                    {
+                      "label": "Land",
+                      "value": "land"
+                    }
+                  ]
+                },
+                {
+                  "type": "select",
+                  "name": "status",
+                  "label": "Status",
+                  "icon": "flag",
+                  "column": "col-md-2",
+                  "options": [
+                    {
+                      "label": "Any Status",
+                      "value": ""
+                    },
+                    {
+                      "label": "Available",
+                      "value": "available"
+                    },
+                    {
+                      "label": "Sold",
+                      "value": "sold"
+                    },
+                    {
+                      "label": "Rented",
+                      "value": "rented"
+                    },
+                    {
+                      "label": "Pending",
+                      "value": "pending"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "name": "city",
+                  "label": "City",
+                  "icon": "city",
+                  "placeholder": "Any City",
+                  "column": "col-md-2"
+                },
+                {
+                  "type": "text",
+                  "name": "state",
+                  "label": "State",
+                  "icon": "map",
+                  "placeholder": "Any State",
+                  "column": "col-md-2"
+                }
+              ],
+              "submit": {
+                "icon": "search",
+                "class": "btn btn-primary w-100",
+                "column": "col-md-1"
+              }
+            },
+            "advancedFilters": {
+              "id": "advancedFilters",
+              "toggleText": "Advanced Filters",
+              "fields": [
+                {
+                  "type": "number",
+                  "name": "price_min",
+                  "label": "Min Price",
+                  "icon": "dollar-sign",
+                  "column": "col-md-2"
+                },
+                {
+                  "type": "number",
+                  "name": "price_max",
+                  "label": "Max Price",
+                  "icon": "dollar-sign",
+                  "column": "col-md-2"
+                },
+                {
+                  "type": "number",
+                  "name": "area_min",
+                  "label": "Min Area (sqft)",
+                  "icon": "ruler-combined",
+                  "column": "col-md-2"
+                },
+                {
+                  "type": "number",
+                  "name": "area_max",
+                  "label": "Max Area (sqft)",
+                  "icon": "ruler-combined",
+                  "column": "col-md-2"
+                },
+                {
+                  "type": "select",
+                  "name": "bedrooms",
+                  "label": "Bedrooms",
+                  "icon": "bed",
+                  "column": "col-md-2",
+                  "options": [
+                    {
+                      "label": "Any",
+                      "value": ""
+                    },
+                    {
+                      "label": "1+",
+                      "value": "1"
+                    },
+                    {
+                      "label": "2+",
+                      "value": "2"
+                    },
+                    {
+                      "label": "3+",
+                      "value": "3"
+                    },
+                    {
+                      "label": "4+",
+                      "value": "4"
+                    },
+                    {
+                      "label": "5+",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "type": "select",
+                  "name": "bathrooms",
+                  "label": "Bathrooms",
+                  "icon": "bath",
+                  "column": "col-md-2",
+                  "options": [
+                    {
+                      "label": "Any",
+                      "value": ""
+                    },
+                    {
+                      "label": "1+",
+                      "value": "1"
+                    },
+                    {
+                      "label": "2+",
+                      "value": "2"
+                    },
+                    {
+                      "label": "3+",
+                      "value": "3"
+                    },
+                    {
+                      "label": "4+",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ],
+              "actions": {
+                "apply": {
+                  "text": "Apply Filters",
+                  "class": "btn btn-primary me-2",
+                  "icon": "filter"
+                },
+                "clear": {
+                  "text": "Clear All",
+                  "href": "?",
+                  "class": "btn btn-outline-secondary",
+                  "icon": "times"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "featured-properties",
+        "id": "featured-properties-001",
+        "content": {
+          "title": "Featured Properties",
+          "subtitle": "Discover exceptional properties available now",
+          "properties": [
+            {
+              "image": "https://photos.zillowstatic.com/fp/1ee2dc26d7ebf083e94e7bbc15c1d5c7-cc_ft_1536.jpg",
+              "price": "$237500",
+              "location": "Denham Springs, LA",
+              "title": "1426 Weeping Willow Dr, Denham Springs, LA 70726 | Zillow",
+              "bedrooms": "3 Bed",
+              "area": "1937 sqft",
+              "url": "/cms/property/PROP0000014/"
+            },
+            {
+              "image": "https://photos.zillowstatic.com/fp/1ee2dc26d7ebf083e94e7bbc15c1d5c7-cc_ft_1536.jpg",
+              "price": "$237500",
+              "location": "Denham Springs, LA",
+              "title": "1426 Weeping Willow Dr, Denham Springs, LA 70726 | Zillow",
+              "bedrooms": "3 Bed",
+              "area": "1937 sqft",
+              "url": "/cms/property/PROP0000014/"
+            },
+            {
+              "image": "https://photos.zillowstatic.com/fp/1ee2dc26d7ebf083e94e7bbc15c1d5c7-cc_ft_1536.jpg",
+              "price": "$237500",
+              "location": "Denham Springs, LA",
+              "title": "1426 Weeping Willow Dr, Denham Springs, LA 70726 | Zillow",
+              "bedrooms": "3 Bed",
+              "area": "1937 sqft",
+              "url": "/cms/property/PROP0000013/"
+            },
+            {
+              "image": "https://themewagon.github.io/property/images/img_1.jpg",
+              "price": "$350,000",
+              "location": "San Francisco, CA",
+              "title": "Modern Family Home",
+              "url": "/cms/property/PROP0000012/"
+            },
+            {
+              "image": "https://themewagon.github.io/property/images/img_1.jpg",
+              "price": "$350,000",
+              "location": "San Francisco, CA",
+              "title": "Modern Family Home",
+              "url": "/cms/property/PROP0000011/"
+            },
+            {
+              "image": "https://themewagon.github.io/property/images/img_1.jpg",
+              "price": "$350,000",
+              "location": "San Francisco, CA",
+              "title": "Modern Family Home",
+              "url": "/cms/property/PROP0000010/"
+            }
+          ],
+          "cta": {
+            "label": "View All Properties",
+            "url": "/cms/properties/",
+            "icon": "home"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageTitle": "contacts",
+    "pageDescription": "Get in Touch with APM Realty - Your Gateway to Ecuadorian Real Estate",
+    "components": [
+      {
+        "id": "contact-page",
+        "type": "contact",
+        "content": {
+          "heading": "FOR COMPANIES WITH RECURRING REVENUE",
+          "title": "Grow on your own terms",
+          "title1": "Get paid by the year,",
+          "title2": "charge by the month",
+          "description": "APM Reality - Premium Real Estate transforms recurring revenue",
+          "description1": "into upfront capital for growth without debt or dilution."
+        }
+      }
+    ]
+  }
+]

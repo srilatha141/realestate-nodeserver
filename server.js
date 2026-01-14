@@ -8,7 +8,12 @@ app.use(cors());
 app.use(express.json());
 
 app.get('/', (req, res) => {
-    res.send('Node server running');
+    fs.readFile('./pageContent.json', 'utf8', (err, data) => {
+    if (err) {
+      return res.status(500).json({ error: 'Failed to read file' });
+    }
+    res.json(JSON.parse(data));
+  });
 });
 
 app.post('/update-json', (req, res) => {
