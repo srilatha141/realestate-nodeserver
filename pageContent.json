@@ -7,7 +7,7 @@
         "id": "uuid-or-unique-string-1",
         "type": "hero-flexible",
         "content": {
-          "title": "Find Your Dream Property",
+          "title": "Find Your Dream Property testing editing title",
           "subtitle": "Luxury Real Estate at Your Fingertips editing sub title",
           "subtitle1": "Discover premium properties in the most desirable locations",
           "alignment": "center",
@@ -703,7 +703,7 @@
                 "class": "bg-white p-5 rounded-3 shadow-lg",
                 "badge": {
                   "text": "Your Paradise is Waiting, But It Won't Wait Forever.",
-                  "class": "text-primary fw-bold"
+                  "class": "text-warning fw-bold"
                 },
                 "heading": {
                   "text": "SCHEDULE NO-OBLIGATION DISCOVERY CALL NOW!",
@@ -725,7 +725,7 @@
                 },
                 "steps": {
                   "badge": {
-                    "class": "badge bg-primary rounded-circle me-3 mt-1",
+                    "class": "badge bg-warning text-black rounded-circle me-3 mt-1",
                     "style": {
                       "width": "24px",
                       "height": "24px"
@@ -752,7 +752,7 @@
                 "cta": {
                   "text": "Schedule Discovery Call 🔒",
                   "href": "mailto:info@apmreality.com",
-                  "class": "btn btn-primary btn-lg w-100 rounded-pill"
+                  "class": "btn btn-warning w-100 rounded-pill"
                 }
               }
             }
@@ -940,7 +940,7 @@
               ],
               "submit": {
                 "icon": "search",
-                "class": "btn btn-primary w-100",
+                "class": "btn btn-warning w-100",
                 "column": "col-md-1"
               }
             },
@@ -1042,7 +1042,7 @@
               "actions": {
                 "apply": {
                   "text": "Apply Filters",
-                  "class": "btn btn-primary me-2",
+                  "class": "btn btn-warning me-2",
                   "icon": "filter"
                 },
                 "clear": {
